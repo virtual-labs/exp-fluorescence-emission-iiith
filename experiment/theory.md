@@ -1,8 +1,8 @@
  Depending on the nature and concentration of the fluorophore (M) and the foreign molecules (Q), viscosity of the solvent, etc., the bimolecular interactions with the excited state fluorophore may involve encounter complex (M* . . . Q), as seen in dynamic quenching, excimer (MM)* or exciplex (MQ*) formation.
 
-1M+hv&#8652;1M*
-1M*+M&#8652;1(MM)*(Excimer)
-1M*+Q&#8652;1(MQ)*(Exciplex)
+1M+hv&#8652;1M*</br>
+1M*+M&#8652;1(MM)*(Excimer)</br>
+1M*+Q&#8652;1(MQ)*(Exciplex)</br>
 
 When collisions between an excited fluorophore molecule and an unexcited identical fluorophore molecule lead to the formation of excited dimeric complexes, such excited dimeric complexes are called the excimers. The word "excimer" is . The word "excimer" is a combined contraction form derived from "excited dimer". Excimer formations have been observed with many aromatic hydrocarbons such as naphthalene, pyrene, etc. The "exciplex" is a combined contraction word derived from "excited complex". The exciplex is formed via collisions between an excited fluorophore molecule and an unexcited unlike molecule. One of the molecules (either fluorophore or the foreign molecule) acts as an electron donor and the other molecule acts as the electron acceptor. For example, exciplex formation has been observed between the electron donor molecule, N,N-diethylamine and excited anthracene molecule.
 
