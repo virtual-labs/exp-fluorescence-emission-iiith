@@ -1,4 +1,4 @@
- Depending on the nature and concentration of the fluorophore (M) and the foreign molecules (Q), viscosity of the solvent, etc., the bimolecular interactions with the excited state fluorophore may involve encounter complex (M* . . . Q), as seen in dynamic quenching, excimer (MM)* or exciplex (MQ*) formation.
+Depending on the nature and concentration of the fluorophore (M) and the foreign molecules (Q), viscosity of the solvent, etc., the bimolecular interactions with the excited state fluorophore may involve encounter complex (M* . . . Q), as seen in dynamic quenching, excimer (MM)* or exciplex (MQ*) formation.
 
 1M+hv&#8652;1M*</br>
 1M*+M&#8652;1(MM)*(Excimer)</br>
