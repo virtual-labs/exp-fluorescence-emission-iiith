@@ -1,0 +1,1 @@
+- To demonstrate how photophysical processes like excimer and exciplex formations affect fluorescence spectral characteristics.
